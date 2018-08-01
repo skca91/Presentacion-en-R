@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {2}{El problema}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Objetivo general}{6}{0}{1}
+\beamer@subsectionintoc {2}{2}{Objetivos espec\'ificos}{7}{0}{1}
+\beamer@sectionintoc {3}{Fundamentos te\'oricos}{8}{0}{2}
+\beamer@sectionintoc {4}{Metodolog\'ia}{11}{0}{3}
+\beamer@subsectionintoc {4}{1}{Poblaci\'on y muestra}{11}{0}{3}
+\beamer@subsectionintoc {4}{2}{Metodolog\'ia de desarrollo de \textit {software} en espiral}{15}{0}{3}
+\beamer@subsectionintoc {4}{3}{Primera interacci\'on}{16}{0}{3}
+\beamer@subsectionintoc {4}{4}{Segunda interacci\'on}{17}{0}{3}
+\beamer@sectionintoc {5}{Desarrollo - Versi\'on final HIVmlm}{18}{0}{4}
+\beamer@sectionintoc {6}{Conclusiones y recomendaciones}{26}{0}{5}

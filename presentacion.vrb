@@ -1,0 +1,9 @@
+\frametitle{\textbf{Objetivos especificos}}
+\begin{block}{Objetivos}
+\end{block}
+\begin{itemize}
+\item Diagnosticar la informaci\'on obtenida en la base de datos suministrada por el Instituto Auton\'omo Hospital Universitario de los Andes.
+\item Analizar de manera exploratoria y descriptiva los datos para la selecci\'on de las variables a utilizar en el m\'odelo a implementar.
+\item Implementar un m\'odelo para el manejo de datos longitudinales en una aplicaci\'on web.
+\item Aplicar pruebas de funcionalidad en la aplicaci\'on.
+\end{itemize}
