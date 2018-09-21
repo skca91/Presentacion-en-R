@@ -1,2 +1,2 @@
-# Presentacion-en-R
-Presentacion desarrollada en lenguaje R
+# presentacionLaTeX
+Presentacion desarrollada en LaTeX
